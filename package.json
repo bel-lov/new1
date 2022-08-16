@@ -1,0 +1,23 @@
+{
+  "name": "new1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bel-lov/new1.git"
+  },
+  "author": "bel-lov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bel-lov/new1/issues"
+  },
+  "homepage": "https://github.com/bel-lov/new1#readme",
+  "dependencies": {
+    "@bel-lov/ajs": "github:bel-lov/ajs"
+  }
+}
